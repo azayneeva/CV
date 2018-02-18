@@ -22,7 +22,7 @@ I have been working on a variety of projects, using the following technologies:
 ## Experience
 
 ### JavaScript Student, Founders and Coders
-June 2017 - October 2017
+June 2017 - February 2018
 
 Founders & Coders is a co-operative that runs a peer-led and project-based coding bootcamp. The course covers test-driven development using a full JavaScript stack (JavaScript and Node.js) with relational databases, plus aspects of design and project management, agile methodologies and pair programming.
 
