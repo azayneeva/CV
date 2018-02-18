@@ -12,6 +12,7 @@ I have been working on a variety of projects, using the following technologies:
 * HTML5
 * CSS3
 * JavaScript
+* React
 * Git
 * Node.js
 * Express
